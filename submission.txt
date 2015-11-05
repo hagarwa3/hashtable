@@ -1,0 +1,7 @@
+Call test file from command line : python hashtable_test.py
+
+Any other external tests can be written the same way as the test file submitted.
+
+The HashTable implementation here is in Python can do everything asked for, and can also resize when exceeding the set load value of 0.7.
+This is very useful and efficient and the resizing runs in amortized O(1) time. All functions run as expected, along with two other functions
+which are the __str__() and resize() functions.
